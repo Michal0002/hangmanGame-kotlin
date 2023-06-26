@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\layout_activity_game_category.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\layout\\activity_game_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman2.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman2.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_coins.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\coins.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman0.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman0.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_fb_logo.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\fb_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman6.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman6.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman11.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman11.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\layout_activity_all_words.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\layout\\activity_all_words.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman8.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman8.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_google_logo.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\layout_activity_hangman_main.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\layout\\activity_hangman_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman3.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman3.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\layout_activity_ad_new_word.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\layout\\activity_ad_new_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\font_droid_sans_mono.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\font\\droid_sans_mono.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman5.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman5.png"
+    },
+    {
+        "merged": "com.example.hangman_the_game_ie.app-merged_res-28:/layout_activity_game.xml.flat",
+        "source": "com.example.hangman_the_game_ie.app-main-30:/layout/activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman1.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman1.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman10.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman10.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman7.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman7.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman4.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman4.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\drawable_hangman9.png.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\drawable\\hangman9.png"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-merged_res-28:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\micha\\.gradle\\daemon\\8.0\\com.example.hangman_the_game_ie.app-main-30:\\layout\\activity_register.xml"
+    }
+]

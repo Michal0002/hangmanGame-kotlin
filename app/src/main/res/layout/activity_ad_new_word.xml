@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdNewWordActivity">
+
+    <Button
+        android:id="@+id/button_goBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="118dp"
+        android:width="316dp"
+        android:height="88dp"
+        android:backgroundTint="#6E6969"
+        android:text="Back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/button_addNewWord"
+        app:layout_constraintTop_toBottomOf="@+id/button_addNewWord" />
+
+    <Spinner
+        android:id="@+id/spinner_difficultyNewWord"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="67dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginBottom="21dp"
+        android:background="#FFFFFF"
+        android:hapticFeedbackEnabled="false"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/button_addNewWord"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText_wordName" />
+
+    <Button
+        android:id="@+id/button_addNewWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="316dp"
+        android:height="88dp"
+        android:backgroundTint="#1C77E6"
+        android:text="Add"
+        app:layout_constraintBottom_toTopOf="@+id/button_goBack"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner_difficultyNewWord" />
+
+    <EditText
+        android:id="@+id/editTextText_wordName"
+        android:layout_width="238dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="31dp"
+        android:ems="10"
+        android:hint="Word name"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/spinner_difficultyNewWord"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="53dp"
+        android:layout_marginBottom="84dp"
+        android:text="Add new word"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText_wordName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

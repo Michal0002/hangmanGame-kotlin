@@ -1,0 +1,53 @@
+package com.example.hangman_the_game_ie
+
+class WordListHard {
+    companion object {
+        fun getWords(): List<String> {
+            return listOf("Brilliant",
+                "Chocolate",
+                "Energetic",
+                "Fireworks",
+                "Hilarious",
+                "Landscape",
+                "Meditation",
+                "Moonlight",
+                "Paradise",
+                "Scrumptious",
+                "Suspicious",
+                "Adventure",
+                "Beautiful",
+                "Curiosity",
+                "Dreamland",
+                "Apologies",
+                "Basketball",
+                "Celebration",
+                "Dreamcatcher",
+                "Exquisite",
+                "Friendship",
+                "Happiness",
+                "Jellyfish",
+                "Landscape",
+                "Marshmallow",
+                "Reflection",
+                "Snowflakes",
+                "Sunflower",
+                "Wonderland",
+                "Delicious",
+                "Abundance",
+                "Celebration",
+                "Delightful",
+                "Extravagant",
+                "Fascinating",
+                "Hesitation",
+                "Impressive",
+                "Journeyman",
+                "Knowledgeable",
+                "Masterpiece",
+                "Noteworthy",
+                "Overwhelming",
+                "Passionate",
+                "Remarkable",
+                "Spectacular")
+        }
+    }
+}
