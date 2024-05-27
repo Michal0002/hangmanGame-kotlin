@@ -1,8 +1,8 @@
 # Hangman Game
 
-The application aims to allow users to play rounds of Hangman on their Android devices. The app should have a login and registration form, as well as a coin system that enables users to earn and use coins for purchasing hints. Coins will be earned based on correctly guessed words.
+The application aims to allow users to play rounds of Hangman on their Android devices. The app have a login and registration form, as well as a coin system that enables users to earn and use coins for purchasing hints. Coins will be earned based on correctly guessed words.
 
-The application will enable users to choose the difficulty level, allowing each player to adjust the game to their skill level. Additionally, logged-in users will have the ability to add new words to the database. This way, the application will be continuously developed and expanded with new vocabulary.
+The application enable users to choose the difficulty level, allowing each player to adjust the game to their skill level. Additionally, logged-in users have the ability to add new words to the database. This way, the application be continuously developed and expanded with new vocabulary.
 
 
 ## Functional requirements of the project:
